@@ -1,7 +1,5 @@
 # 🏠 Residencial Grand Blue - Sistema de Gestão
 
-![Banner ou Logo](./frontend/src/assets/logo.png)
-
 ## 📹 Demonstração
 
 <!-- Se tiver vídeo -->
