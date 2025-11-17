@@ -3,10 +3,7 @@
 ## 📹 Demonstração
 
 <!-- Se tiver vídeo -->
-🎥 [Assista à demonstração em vídeo]([link-do-video.mp4](https://github.com/user-attachments/assets/80d01281-08d3-4005-982b-b2757de58ffb))
-
-
-
+🎥 [Assista à demonstração em vídeo](https://github.com/user-attachments/assets/b296f15c-72ea-4dc8-a735-b66944d52042)
 
 
 <!-- Ou embed direto se hospedar no GitHub -->
