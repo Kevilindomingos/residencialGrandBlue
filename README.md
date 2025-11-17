@@ -1,19 +1,14 @@
-# 🏠 Residencial Grand Blue - Sistema de Gestão
+# 🏠 Grand Blue Residence - Management System
 
-## 📹 Demonstração
+## 📹 Demonstration
 
-<!-- Se tiver vídeo -->
-🎥 [Assista à demonstração em vídeo](https://github.com/user-attachments/assets/b296f15c-72ea-4dc8-a735-b66944d52042)
+🎥 [Watch the video demonstration](https://github.com/user-attachments/assets/b296f15c-72ea-4dc8-a735-b66944d52042)
 
+## 📋 About the Project
 
-<!-- Ou embed direto se hospedar no GitHub -->
-<!-- ![Demo GIF](./demo.gif) -->
+Complete management system for elderly residences, developed as my course conclusion project. Allows registration and monitoring of residents, daily task lists, and personalized reports.
 
-## 📋 Sobre o Projeto
-
-Sistema completo de gestão para residenciais de idosos, desenvolvido como Trabalho de Conclusão de Curso (TCC). Permite o cadastro e acompanhamento de residentes, listas de tarefas diárias e relatórios personalizados.
-
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,44 +20,44 @@ Sistema completo de gestão para residenciais de idosos, desenvolvido como Traba
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Banco de Dados**
+### **Database**
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🎯 Funcionalidades
+## 🎯 Features
 
-### 👥 Gestão de Residentes
-- Cadastro completo de idosos
-- Histórico médico e preferências
-- Fotos e documentos
+### 👥 Residents Management
+- Complete registration of elderly residents
+- Medical history and preferences
+- Documents and photos
 
-### 📝 Listas Diárias
-- Controle de medicamentos
-- Atividades programadas
-- Acompanhamento de rotina
+### 📝 Daily Lists
+- Medication control
+- Scheduled activities  
+- Routine monitoring
 
-### 📊 Relatórios
-- Gerenciais personalizados
-- Exportação de dados
-- Dashboard administrativo
+### 📊 Reports
+- Customized management reports
+- Data export
+- Administrative dashboard
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-### Pré-requisitos
+### Prerequisites
 - Node.js 16+
-- npm ou yarn
+- npm or yarn
 
-### Instalação e Execução
+### Installation and Execution
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/Kevilindomingos/residencialGrandBlue.git
 
-# Entre no diretório
+# Enter the directory
 cd residencialGrandBlue
 
-# Instale todas as dependências
+# Install all dependencies
 npm run install:all
 
-# Execute o projeto
+# Run the project
 npm run dev
